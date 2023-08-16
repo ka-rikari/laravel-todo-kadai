@@ -1,0 +1,7 @@
+.menu-icon::after {
+  display: none;
+}
+
+.label {
+  margin:3px 0;
+}
